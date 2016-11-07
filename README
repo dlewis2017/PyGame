@@ -12,7 +12,8 @@ to sink all of the other players ships, wins.
 
 How to run the code:
 
-1. ssh into student02.cse.nd.edu and run the server code with the command: python server.py
+1. ssh into student02.cse.nd.edu, or own server host (modifications of server host and port
+would change in the code), and run the server code with the command:      python server.py
 2. connect to the server with player1 from any computer with the command: python player1.py
 3. connect to the server with player2 from any computer with the command: python player2.py
 
